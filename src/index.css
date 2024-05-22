@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.heading {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 800;
+  margin-top: 40px;
+}
+
+.container h2 {
+  font-weight: 700;
+}
+
+.gen-row button {
+  width: auto;
+  background-color: rgba(184, 168, 168, 0.499);
+}
+
+.hov:hover {
+  background-color: rgba(184, 168, 168, 0.499);
+}
